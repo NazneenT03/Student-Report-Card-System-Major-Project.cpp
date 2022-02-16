@@ -186,7 +186,7 @@ int main(){
         cout << Lang << "\n";
         }
         else if ("Mathematics"==delsub) {
-        cout << "\n\n"
+        cout << "\n\n";
         cout << "Updated Student Report \n";
         cout << "~~~~~~~~~~~~~~~~~~~~~~ \n\n";
         cout << " ************************ STUDENT REPORT ************************************** \n\n";
