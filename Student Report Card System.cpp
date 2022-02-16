@@ -163,7 +163,7 @@ int main(){
         cout << Lang << "\n";
         }
         else if ("Biology"==delsub) {
-        cout << "\n\n"
+        cout << "\n\n";
         cout << "Updated Student Report \n";
         cout << "~~~~~~~~~~~~~~~~~~~~~~ \n\n";
         cout << " ************************ STUDENT REPORT ************************************** \n\n";
@@ -209,7 +209,7 @@ int main(){
         cout << Lang << "\n";
         }
         else if ("Language"==delsub) {
-        cout << "\n\n"
+        cout << "\n\n";
         cout << "Updated Student Report \n";
         cout << "~~~~~~~~~~~~~~~~~~~~~~ \n\n";
         cout << " ************************ STUDENT REPORT ************************************** \n\n";
@@ -244,7 +244,7 @@ int main(){
         float modnum;
         cin >> modnum;
         if ("Physics"==modsub) {
-        cout << "\n\n"
+        cout << "\n\n";
         cout << "Updated Student Report \n";
         cout << "~~~~~~~~~~~~~~~~~~~~~~ \n\n";
         cout << " ************************ STUDENT REPORT ************************************** \n\n";
@@ -269,7 +269,7 @@ int main(){
         cout << Lang << "\n";
         }
         else if ("Chemistry"==modsub) {
-        cout << "\n\n"
+        cout << "\n\n";
         cout << "Updated Student Report \n";
         cout << "~~~~~~~~~~~~~~~~~~~~~~ \n\n";
         cout << " ************************ STUDENT REPORT ************************************** \n\n";
@@ -294,7 +294,7 @@ int main(){
         cout << Lang << "\n";
         }
         else if ("Biology"==modsub) {
-        cout << "\n\n"
+        cout << "\n\n";
         cout << "Updated Student Report \n";
         cout << "~~~~~~~~~~~~~~~~~~~~~~ \n\n";
         cout << " ************************ STUDENT REPORT ************************************** \n\n";
@@ -319,7 +319,7 @@ int main(){
         cout << Lang << "\n";
         }
         else if ("Mathematics"==modsub) {
-        cout << "\n\n"
+        cout << "\n\n";
         cout << "Updated Student Report \n";
         cout << "~~~~~~~~~~~~~~~~~~~~~~ \n\n";
         cout << " ************************ STUDENT REPORT ************************************** \n\n";
@@ -344,7 +344,7 @@ int main(){
         cout << Lang << "\n";
         }
         else if ("Language"==modsub) {
-        cout << "\n\n"
+        cout << "\n\n";
         cout << "Updated Student Report \n";
         cout << "~~~~~~~~~~~~~~~~~~~~~~ \n\n";
         cout << " ************************ STUDENT REPORT ************************************** \n\n";
